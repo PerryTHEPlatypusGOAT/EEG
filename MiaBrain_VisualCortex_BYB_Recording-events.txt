@@ -1,0 +1,23 @@
+# Marker ID,	Time (in s)
+# first column = moment eyes closed or open
+# second column = time marker in seconds
+eyes closed,	3
+eyes open,	10
+eyes closed,	32
+eyes open,	48
+eyes closed,	90
+eyes open,	103
+eyes closed,	130
+eyes open,	140
+eyes closed, 170
+eyes open, 180
+eyes closed, 200
+eyes open, 210
+eyes closed, 230
+eyes open, 250
+eyes closed, 270
+eyes open, 290
+eyes closed, 310
+eyes open, 330
+eyes closed, 350
+eyes open, 370
